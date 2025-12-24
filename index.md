@@ -1,0 +1,16 @@
+# Punk-t
+
+```powershell
+$var = Import-Csv -Path 'file.csv' -Delimiter ';'
+```
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
